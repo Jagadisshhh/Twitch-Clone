@@ -143,7 +143,7 @@ input[type="button"] {
 #sidebar {
     /* border: 2px solid red; */
     width: 15%;
-    height: 655px;
+    height: 100vh;
     padding: 10px 7px; 
     background-color: #242429;
     position: fixed;
