@@ -245,7 +245,7 @@ h6{
     height: 250px;
     position: absolute;
     top: 24px;
-    left: 166px;
+    left: 224px;
     transition-property: height;
     transition-duration: 0.4s;
 }
@@ -253,7 +253,7 @@ h6{
     height: 228px;
     position: absolute;
     top: 31px;
-    left: 118px;
+    left: 176px;
     transition-property: height;
     transition-duration: 0.4s;
 }
@@ -261,7 +261,7 @@ h6{
     height: 250px;
     position: absolute;
     top: 27px;
-    right: 170px;
+    right: 225px;
     transition-property: height;
     transition-duration: 0.4s;
 }
@@ -269,7 +269,7 @@ h6{
     height: 228px;
     position: absolute;
     top: 37px;
-    right: 126px;
+    right: 180px;
     transition-property: height;
     transition-duration: 0.4s;
 }
